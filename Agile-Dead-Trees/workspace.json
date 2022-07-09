@@ -1,0 +1,509 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "revision" : 0,
+  "lastModifiedDate" : "2022-07-09T19:41:28Z",
+  "lastModifiedAgent" : "structurizr-web/2762/diagram",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKICAgICFkb2NzIGRvY3VtZW50YXRpb24KICAgICFhZHJzIGRlY2lzaW9ucwoKICAgIG1vZGVsIHsKICAgICAgICBlbnRlcnByaXNlICJCb29rcyBSIFVzIiB7CiAgICAgICAgICAgIHJldmlld2VyID0gcGVyc29uICJSZXZpZXdlciIgIlB1Ymxpc2hlciBlbXBsb3llc3MgKGRvemVucykiCiAgICAgICAgICAgIGF1dGhvciA9IHBlcnNvbiAiQXV0aG9yIiAiQm9vayBhdXRob3JzIChodW5kcmVkcykiCiAgICAgICAgICAgIGN1c3RvbWVyID0gcGVyc29uICJCdXllciIgIkJvb2sgcHVyY2hhc2VycyAobWlsbGlvbnMpIgogICAgICAgICAgICBjbXMgPSBzb2Z0d2FyZVN5c3RlbSAiQ29udGVudCBNYW5hZ2VtZW50IFN5c3RlbSIgewogICAgICAgICAgICAgICAgY29udGFpbmVyICJQdXJjaGFzaW5nIFNlcnZpY2VzIiAiSGFuZGxlcyBwdXJjaGFzaW5nIG9mIGJvb2tzIiAiU3ByaW5nIEJvb3QiIHsKICAgICAgICAgICAgICAgICAgICBjdXN0b21lciAtPiB0aGlzICJwdXJjaGFzZXMgYm9va3MgZnJvbSIgIndlYiBicm93c2VyIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgd2lwID0gY29udGFpbmVyICJXSVAgU2VydmljZXMiICJIYW5kbGVzIHB1c2hpbmcgY2hhcHRlcnMgYXMgdGhleSBiZWNvbWUgYXZhaWxhYmxlIiAiU3ByaW5nIEJvb3QiCiAgICAgICAgICAgICAgICBhdXRob3JpbmcgPSBjb250YWluZXIgIkF1dGhvcmluZyBTZXJ2aWNlcyIgIkhhbmRsZXMgYm9va3MgaW4gcHJvZ3Jlc3MiICJTcHJpbmcgQm9vdCIgewogICAgICAgICAgICAgICAgICAgIGF1dGhvciAtPiB0aGlzICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICBhdXRob3IgLT4gdGhpcyAicmVqZWN0IHJldmlld2VyIGNoYW5nZXMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICByZXZpZXdlciAtPiB0aGlzICJyZXZpZXdzIGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiB3aXAgIm5vdGlmaWVkIG9mIGNvbXBsZXRlZCBjaGFwdGVyIiAiQU1RUCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBncm91cCAiU3BhbSBHdW4iIHsKICAgICAgICAgICAgZW1haWwgPSBzb2Z0d2FyZVN5c3RlbSAiRS1NYWlsIFNlcnZpY2UiICJIYW5kbGVzIHNlbmRpbmcgb3V0IGUtbWFpbCIgIkV4dGVybmFsIHZlbmRvciIgewogICAgICAgICAgICAgICAgdGhpcyAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICAgICAgdGhpcyAtPiByZXZpZXdlciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICAgICAgdGhpcyAtPiBhdXRob3IgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJlLW1haWwiCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGN1c3RvbWVyIC0+IHdpcCAicmVhZHMgbmV3IGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICBhdXRob3JpbmcgLT4gZW1haWwgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJSRVNUIEFQSSIKICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgInN5c3RlbS1sYW5kc2NhcGUiICJDb3Jwb3JhdGUgdmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dCBscgogICAgICAgIH0KCiAgICAgICAgc3lzdGVtQ29udGV4dCBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGR5bmFtaWMgImNtcyIgewogICAgICAgICAgICB0aXRsZSAiTmV3IENoYXB0ZXIgKGFwcHJvdmVkKSIKICAgICAgICAgICAgYXV0b0xheW91dCBscgogICAgICAgICAgICBhdXRob3IgLT4gYXV0aG9yaW5nICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICAgICAgZW1haWwgLT4gcmV2aWV3ZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICAgICAgcmV2aWV3ZXIgLT4gYXV0aG9yaW5nICJyZXZpZXdzIGFuZCBhcHByb3ZlcyBuZXcgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IHdpcCAibm90aWZpZWQgb2YgY29tcGxldGVkIGNoYXB0ZXIiICJBTVFQIgogICAgICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgICAgICAgICBlbWFpbCAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICBjdXN0b21lciAtPiB3aXAgInJlYWRzIG5ldyBjaGFwdGVycyIgIndlYiBicm93c2VyIgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgfQoKfQo="
+  },
+  "configuration" : { },
+  "model" : {
+    "enterprise" : {
+      "name" : "Books R Us"
+    },
+    "people" : [ {
+      "id" : "2",
+      "tags" : "Element,Person",
+      "name" : "Author",
+      "description" : "Book authors (hundreds)",
+      "relationships" : [ {
+        "id" : "10",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "9",
+        "description" : "publishes chapters",
+        "technology" : "web browser"
+      }, {
+        "id" : "12",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "9",
+        "description" : "reject reviewer changes",
+        "technology" : "web browser"
+      }, {
+        "id" : "11",
+        "sourceId" : "2",
+        "destinationId" : "4",
+        "description" : "publishes chapters",
+        "technology" : "web browser",
+        "linkedRelationshipId" : "10"
+      } ],
+      "location" : "Internal"
+    }, {
+      "id" : "3",
+      "tags" : "Element,Person",
+      "name" : "Buyer",
+      "description" : "Book purchasers (millions)",
+      "relationships" : [ {
+        "id" : "6",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "5",
+        "description" : "purchases books from",
+        "technology" : "web browser"
+      }, {
+        "id" : "7",
+        "sourceId" : "3",
+        "destinationId" : "4",
+        "description" : "purchases books from",
+        "technology" : "web browser",
+        "linkedRelationshipId" : "6"
+      }, {
+        "id" : "20",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "8",
+        "description" : "reads new chapters",
+        "technology" : "web browser"
+      } ],
+      "location" : "Internal"
+    }, {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "name" : "Reviewer",
+      "description" : "Publisher employess (dozens)",
+      "relationships" : [ {
+        "id" : "13",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "9",
+        "description" : "reviews chapters",
+        "technology" : "web browser"
+      }, {
+        "id" : "14",
+        "sourceId" : "1",
+        "destinationId" : "4",
+        "description" : "reviews chapters",
+        "technology" : "web browser",
+        "linkedRelationshipId" : "13"
+      } ],
+      "location" : "Internal"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "16",
+      "tags" : "Element,Software System,External vendor",
+      "name" : "E-Mail Service",
+      "description" : "Handles sending out e-mail",
+      "relationships" : [ {
+        "id" : "17",
+        "tags" : "Relationship",
+        "sourceId" : "16",
+        "destinationId" : "3",
+        "description" : "notified of new chapters",
+        "technology" : "e-mail"
+      }, {
+        "id" : "19",
+        "tags" : "Relationship",
+        "sourceId" : "16",
+        "destinationId" : "2",
+        "description" : "notified of reviewer changes",
+        "technology" : "e-mail"
+      }, {
+        "id" : "18",
+        "tags" : "Relationship",
+        "sourceId" : "16",
+        "destinationId" : "1",
+        "description" : "notified of new chapters",
+        "technology" : "e-mail"
+      } ],
+      "group" : "Spam Gun",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System",
+      "name" : "Content Management System",
+      "relationships" : [ {
+        "id" : "22",
+        "sourceId" : "4",
+        "destinationId" : "16",
+        "description" : "notified of new chapters",
+        "technology" : "REST API",
+        "linkedRelationshipId" : "21"
+      } ],
+      "location" : "Internal",
+      "containers" : [ {
+        "id" : "9",
+        "tags" : "Element,Container",
+        "name" : "Authoring Services",
+        "description" : "Handles books in progress",
+        "relationships" : [ {
+          "id" : "23",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "16",
+          "description" : "notified of reviewer changes",
+          "technology" : "REST API"
+        }, {
+          "id" : "15",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "8",
+          "description" : "notified of completed chapter",
+          "technology" : "AMQP"
+        }, {
+          "id" : "21",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "16",
+          "description" : "notified of new chapters",
+          "technology" : "REST API"
+        } ],
+        "technology" : "Spring Boot"
+      }, {
+        "id" : "5",
+        "tags" : "Element,Container",
+        "name" : "Purchasing Services",
+        "description" : "Handles purchasing of books",
+        "technology" : "Spring Boot"
+      }, {
+        "id" : "8",
+        "tags" : "Element,Container",
+        "name" : "WIP Services",
+        "description" : "Handles pushing chapters as they become available",
+        "relationships" : [ {
+          "id" : "24",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "16",
+          "description" : "notified of new chapters",
+          "technology" : "REST API"
+        } ],
+        "technology" : "Spring Boot"
+      } ],
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : {
+    "sections" : [ {
+      "title" : "Requirements",
+      "content" : "\n## Requirements\n\nA publisher wants to unify its authoring Content Management System \\(CMS\\) and customer store experience, trying to get books published to customers as quickly as possible.\n\n- Users: dozens of publisher employees, hundreds of authors, thousands/millions of customers\n- Requirements:\n  - authors publish chapters\n  - reviewers see the chapters, make review comments, and notify authors on review\n  - authors can reject proposed review changes\n  - supports both copy and technical editing\n  - customers can buy books \\(either e-form or dead trees form\\) online, including those available in 'beta'\n  - publisher can push authors chapters to those customers who bought the 'beta'\n- Additional Context:\n  - The business is driven to this decision because competitors have a similar offering.\n  - Competition for authors is tight.\n  - This is part of a long-term strategy to modernize the publishing aspects of the business.\n  - Information needed to publish a book \\(distribution, royalties, marketing\\) comes from several disparate systems, ranging from emailed Excel spreadsheets to mainframe integration with the printing facility.",
+      "format" : "Markdown",
+      "order" : 1
+    } ]
+  },
+  "views" : {
+    "systemLandscapeViews" : [ {
+      "description" : "Corporate view",
+      "key" : "system-landscape",
+      "order" : 1,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 2558,
+        "height" : 2470
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "LeftRight",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1068,
+        "y" : 378
+      }, {
+        "id" : "2",
+        "x" : 1068,
+        "y" : 1078
+      }, {
+        "id" : "3",
+        "x" : 1068,
+        "y" : 1778
+      }, {
+        "id" : "4",
+        "x" : 1768,
+        "y" : 778
+      }, {
+        "id" : "16",
+        "x" : 318,
+        "y" : 778
+      } ],
+      "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "17",
+        "vertices" : [ {
+          "x" : 964,
+          "y" : 1628
+        } ]
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "11"
+      }, {
+        "id" : "22",
+        "vertices" : [ {
+          "x" : 1468,
+          "y" : 228
+        }, {
+          "x" : 964,
+          "y" : 228
+        } ]
+      }, {
+        "id" : "7"
+      }, {
+        "id" : "19"
+      } ]
+    } ],
+    "systemContextViews" : [ {
+      "softwareSystemId" : "4",
+      "key" : "ContentManagementSystem-SystemContext",
+      "order" : 2,
+      "paperSize" : "A5_Landscape",
+      "dimensions" : {
+        "width" : 2266,
+        "height" : 1516
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 40,
+        "y" : 730
+      }, {
+        "id" : "2",
+        "x" : 1590,
+        "y" : 55
+      }, {
+        "id" : "3",
+        "x" : 1765,
+        "y" : 1005
+      }, {
+        "id" : "4",
+        "x" : 795,
+        "y" : 810
+      }, {
+        "id" : "16",
+        "x" : 140,
+        "y" : 120
+      } ],
+      "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "17"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "11",
+        "vertices" : [ {
+          "x" : 1490,
+          "y" : 525
+        } ]
+      }, {
+        "id" : "7",
+        "vertices" : [ {
+          "x" : 1485,
+          "y" : 1065
+        } ]
+      }, {
+        "id" : "22"
+      }, {
+        "id" : "19"
+      } ]
+    } ],
+    "containerViews" : [ {
+      "softwareSystemId" : "4",
+      "key" : "ContentManagementSystem-Container",
+      "order" : 3,
+      "paperSize" : "A4_Portrait",
+      "dimensions" : {
+        "width" : 1704,
+        "height" : 2679
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1115,
+        "y" : 1085
+      }, {
+        "id" : "2",
+        "x" : 870,
+        "y" : 2120
+      }, {
+        "id" : "3",
+        "x" : 1037,
+        "y" : 361
+      }, {
+        "id" : "5",
+        "x" : 287,
+        "y" : 286
+      }, {
+        "id" : "16",
+        "x" : 40,
+        "y" : 2060
+      }, {
+        "id" : "8",
+        "x" : 545,
+        "y" : 990
+      }, {
+        "id" : "9",
+        "x" : 287,
+        "y" : 1486
+      } ],
+      "relationships" : [ {
+        "id" : "21",
+        "vertices" : [ {
+          "x" : 221,
+          "y" : 921
+        } ]
+      }, {
+        "id" : "10"
+      }, {
+        "id" : "20",
+        "vertices" : [ {
+          "x" : 792,
+          "y" : 673
+        } ]
+      }, {
+        "id" : "18"
+      }, {
+        "id" : "17"
+      }, {
+        "id" : "15",
+        "vertices" : [ {
+          "x" : 520,
+          "y" : 1270
+        } ]
+      }, {
+        "id" : "13"
+      }, {
+        "id" : "24"
+      }, {
+        "id" : "6"
+      }, {
+        "id" : "12",
+        "vertices" : [ {
+          "x" : 967,
+          "y" : 1805
+        } ]
+      }, {
+        "id" : "23",
+        "vertices" : [ {
+          "x" : 515,
+          "y" : 864
+        } ]
+      }, {
+        "id" : "19"
+      } ]
+    } ],
+    "dynamicViews" : [ {
+      "key" : "ContentManagementSystem-Dynamic-001",
+      "order" : 4,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 3016,
+        "height" : 1858
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "LeftRight",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "title" : "New Chapter (approved)",
+      "elementId" : "4",
+      "externalBoundariesVisible" : true,
+      "relationships" : [ {
+        "id" : "10",
+        "description" : "publishes chapters",
+        "order" : "1",
+        "response" : false
+      }, {
+        "id" : "21",
+        "description" : "notified of new chapters",
+        "order" : "2",
+        "response" : false
+      }, {
+        "id" : "18",
+        "description" : "notified of new chapters",
+        "order" : "3",
+        "response" : false
+      }, {
+        "id" : "13",
+        "description" : "reviews and approves new chapters",
+        "order" : "4",
+        "response" : false,
+        "vertices" : [ {
+          "x" : 1658,
+          "y" : 1379
+        } ]
+      }, {
+        "id" : "15",
+        "description" : "notified of completed chapter",
+        "order" : "5",
+        "response" : false
+      }, {
+        "id" : "24",
+        "description" : "notified of new chapters",
+        "order" : "6",
+        "response" : false,
+        "vertices" : [ {
+          "x" : 1883,
+          "y" : 679
+        }, {
+          "x" : 1883,
+          "y" : 879
+        } ]
+      }, {
+        "id" : "17",
+        "description" : "notified of new chapters",
+        "order" : "7",
+        "response" : false
+      }, {
+        "id" : "20",
+        "description" : "reads new chapters",
+        "order" : "8",
+        "response" : false
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 2408,
+        "y" : 1233
+      }, {
+        "id" : "2",
+        "x" : 208,
+        "y" : 279
+      }, {
+        "id" : "3",
+        "x" : 2408,
+        "y" : 408
+      }, {
+        "id" : "16",
+        "x" : 1658,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 1658,
+        "y" : 329
+      }, {
+        "id" : "9",
+        "x" : 908,
+        "y" : 329
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
+      "terminology" : { },
+      "lastSavedView" : "ContentManagementSystem-Container"
+    }
+  }
+}
