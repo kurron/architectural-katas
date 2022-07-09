@@ -27,6 +27,8 @@ The solution is expressed in a simple text file and redered via https://structur
 https://structurizr.com/help/lite[Structurizr Lite] runs as a container so there is nothing to install. You just need to point it to the proper solution directory to explore the diagrams.
 
 == Tips and Tricks
+=== Exploring Agile Dead Trees solution
+Execute `docker run --pull always --interactive --tty --rm --publish 8080:8080 --volume $(pwd):/usr/local/structurizr --env STRUCTURIZR_WORKSPACE_PATH=Agile-Dead-Trees structurizr/lite:latest` to start https://structurizr.com/[Structurizr], connecting your browser to `localhost:8080` to begin exploring.
 
 === All I see is a black box!
 The solution is ...
