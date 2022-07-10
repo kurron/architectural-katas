@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-07-09T19:41:28Z",
+  "lastModifiedDate" : "2022-07-10T17:02:42Z",
   "lastModifiedAgent" : "structurizr-web/2762/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKICAgICFkb2NzIGRvY3VtZW50YXRpb24KICAgICFhZHJzIGRlY2lzaW9ucwoKICAgIG1vZGVsIHsKICAgICAgICBlbnRlcnByaXNlICJCb29rcyBSIFVzIiB7CiAgICAgICAgICAgIHJldmlld2VyID0gcGVyc29uICJSZXZpZXdlciIgIlB1Ymxpc2hlciBlbXBsb3llc3MgKGRvemVucykiCiAgICAgICAgICAgIGF1dGhvciA9IHBlcnNvbiAiQXV0aG9yIiAiQm9vayBhdXRob3JzIChodW5kcmVkcykiCiAgICAgICAgICAgIGN1c3RvbWVyID0gcGVyc29uICJCdXllciIgIkJvb2sgcHVyY2hhc2VycyAobWlsbGlvbnMpIgogICAgICAgICAgICBjbXMgPSBzb2Z0d2FyZVN5c3RlbSAiQ29udGVudCBNYW5hZ2VtZW50IFN5c3RlbSIgewogICAgICAgICAgICAgICAgY29udGFpbmVyICJQdXJjaGFzaW5nIFNlcnZpY2VzIiAiSGFuZGxlcyBwdXJjaGFzaW5nIG9mIGJvb2tzIiAiU3ByaW5nIEJvb3QiIHsKICAgICAgICAgICAgICAgICAgICBjdXN0b21lciAtPiB0aGlzICJwdXJjaGFzZXMgYm9va3MgZnJvbSIgIndlYiBicm93c2VyIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgd2lwID0gY29udGFpbmVyICJXSVAgU2VydmljZXMiICJIYW5kbGVzIHB1c2hpbmcgY2hhcHRlcnMgYXMgdGhleSBiZWNvbWUgYXZhaWxhYmxlIiAiU3ByaW5nIEJvb3QiCiAgICAgICAgICAgICAgICBhdXRob3JpbmcgPSBjb250YWluZXIgIkF1dGhvcmluZyBTZXJ2aWNlcyIgIkhhbmRsZXMgYm9va3MgaW4gcHJvZ3Jlc3MiICJTcHJpbmcgQm9vdCIgewogICAgICAgICAgICAgICAgICAgIGF1dGhvciAtPiB0aGlzICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICBhdXRob3IgLT4gdGhpcyAicmVqZWN0IHJldmlld2VyIGNoYW5nZXMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICByZXZpZXdlciAtPiB0aGlzICJyZXZpZXdzIGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiB3aXAgIm5vdGlmaWVkIG9mIGNvbXBsZXRlZCBjaGFwdGVyIiAiQU1RUCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBncm91cCAiU3BhbSBHdW4iIHsKICAgICAgICAgICAgZW1haWwgPSBzb2Z0d2FyZVN5c3RlbSAiRS1NYWlsIFNlcnZpY2UiICJIYW5kbGVzIHNlbmRpbmcgb3V0IGUtbWFpbCIgIkV4dGVybmFsIHZlbmRvciIgewogICAgICAgICAgICAgICAgdGhpcyAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICAgICAgdGhpcyAtPiByZXZpZXdlciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICAgICAgdGhpcyAtPiBhdXRob3IgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJlLW1haWwiCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGN1c3RvbWVyIC0+IHdpcCAicmVhZHMgbmV3IGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICBhdXRob3JpbmcgLT4gZW1haWwgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJSRVNUIEFQSSIKICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgInN5c3RlbS1sYW5kc2NhcGUiICJDb3Jwb3JhdGUgdmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dCBscgogICAgICAgIH0KCiAgICAgICAgc3lzdGVtQ29udGV4dCBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGR5bmFtaWMgImNtcyIgewogICAgICAgICAgICB0aXRsZSAiTmV3IENoYXB0ZXIgKGFwcHJvdmVkKSIKICAgICAgICAgICAgYXV0b0xheW91dCBscgogICAgICAgICAgICBhdXRob3IgLT4gYXV0aG9yaW5nICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICAgICAgZW1haWwgLT4gcmV2aWV3ZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICAgICAgcmV2aWV3ZXIgLT4gYXV0aG9yaW5nICJyZXZpZXdzIGFuZCBhcHByb3ZlcyBuZXcgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IHdpcCAibm90aWZpZWQgb2YgY29tcGxldGVkIGNoYXB0ZXIiICJBTVFQIgogICAgICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgICAgICAgICBlbWFpbCAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICBjdXN0b21lciAtPiB3aXAgInJlYWRzIG5ldyBjaGFwdGVycyIgIndlYiBicm93c2VyIgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKICAgICFkb2NzIGRvY3VtZW50YXRpb24KICAgICFhZHJzIGRlY2lzaW9ucwoKICAgIG1vZGVsIHsKICAgICAgICBncm91cCAiRXh0ZXJuYWwgT3JnYW5pemF0aW9ucyIgewogICAgICAgICAgICBtYXJrZXRpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiTWFya2V0aW5nIiAiR2V0cyB0aGUgd29yZCBvdXQiICJNYXJrZXRpbmcgUiBVcyIKICAgICAgICAgICAgZGlzdGlyYnV0aW9uID0gc29mdHdhcmVTeXN0ZW0gIkRpc3RyaWJ1dGlvbiIgIlNoaXBzIHBoeXNpY2FsIGJvb2tzIiAiRGlzdHJpYnV0aW9uIFIgVXMiCiAgICAgICAgICAgIHJveWFsdGllcyA9IHNvZnR3YXJlU3lzdGVtICJSb3lhbHRpZXMiICJIYW5kbGVzIHJveWFsdHkgcGF5bWVudHMiICJSb3lhbHRpZXMgUiBVcyIKICAgICAgICAgICAgcHJpbnRpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiUHJpbnRpbmciICJIYW5kbGVzIHByaW50aW5nIHBoeXNpY2FsIGJvb2tzIiAiUHJpbnRpbmcgUiBVcyIKICAgICAgICAgICAgZW1haWwgPSBzb2Z0d2FyZVN5c3RlbSAiRS1NYWlsIFNlcnZpY2UiICJIYW5kbGVzIHNlbmRpbmcgb3V0IGUtbWFpbCIgIkV4dGVybmFsIHZlbmRvciIKICAgICAgICB9CgogICAgICAgIGVudGVycHJpc2UgIkJvb2tzIFIgVXMiIHsKICAgICAgICAgICAgcmV2aWV3ZXIgPSBwZXJzb24gIlJldmlld2VyIiAiUHVibGlzaGVyIGVtcGxveWVlcyAoZG96ZW5zKSIKICAgICAgICAgICAgYXV0aG9yID0gcGVyc29uICJBdXRob3IiICJCb29rIGF1dGhvcnMgKGh1bmRyZWRzKSIKICAgICAgICAgICAgY3VzdG9tZXIgPSBwZXJzb24gIkJ1eWVyIiAiQm9vayBwdXJjaGFzZXJzIChtaWxsaW9ucykiCiAgICAgICAgICAgIG1hcmtldGVyID0gcGVyc29uICJNYXJrZXRlciIgIlB1Ymxpc2hlciBlbXBsb3llZXMgKGRvemVucykiCiAgICAgICAgICAgIHBtID0gcGVyc29uICJQcm9qZWN0IE1hbmFnZXIiICJQdWJsaXNoZXIgZW1wbG95ZWVzIChkb3plbnMpIgogICAgICAgICAgICBjbXMgPSBzb2Z0d2FyZVN5c3RlbSAiQ29udGVudCBNYW5hZ2VtZW50IFN5c3RlbSIgewogICAgICAgICAgICAgICAgY29udGFpbmVyICJQdXJjaGFzaW5nIFNlcnZpY2VzIiAiSGFuZGxlcyBwdXJjaGFzaW5nIG9mIGJvb2tzIiAiU3ByaW5nIEJvb3QiIHsKICAgICAgICAgICAgICAgICAgICBjdXN0b21lciAtPiB0aGlzICJwdXJjaGFzZXMgYm9va3MgZnJvbSIgIndlYiBicm93c2VyIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgd2lwID0gY29udGFpbmVyICJXSVAgU2VydmljZXMiICJIYW5kbGVzIHB1c2hpbmcgY2hhcHRlcnMgYXMgdGhleSBiZWNvbWUgYXZhaWxhYmxlIiAiU3ByaW5nIEJvb3QiCiAgICAgICAgICAgICAgICBhdXRob3JpbmcgPSBjb250YWluZXIgIkF1dGhvcmluZyBTZXJ2aWNlcyIgIkhhbmRsZXMgYm9va3MgaW4gcHJvZ3Jlc3MiICJTcHJpbmcgQm9vdCIgewogICAgICAgICAgICAgICAgICAgIGF1dGhvciAtPiB0aGlzICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICBhdXRob3IgLT4gdGhpcyAicmVqZWN0IHJldmlld2VyIGNoYW5nZXMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICByZXZpZXdlciAtPiB0aGlzICJyZXZpZXdzIGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiB3aXAgIm5vdGlmaWVkIG9mIGNvbXBsZXRlZCBjaGFwdGVyIiAiQU1RUCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGRhdGFiYXNlID0gY29udGFpbmVyICJEYXRhYmFzZSIgIkNoYXB0ZXIgc3RvcmFnZSIgIk5lbzRKIgogICAgICAgICAgICB9CiAgICAgICAgICAgIG1hcmtldGVyIC0+IG1hcmtldGluZyAic3BlY2lmaWVzIG1hcmtldGluZyBjYW1wYWlnbiIgImUtbWFpbCIKICAgICAgICAgICAgcG0gLT4gZGlzdGlyYnV0aW9uICJzcGVjaWZpZXMgZGlzdHJpYnV0aW9uIHBsYW4iICJlLW1haWwiCiAgICAgICAgICAgIHBtIC0+IHByaW50aW5nICJzcGVjaWZpZXMgcHJpbnRpbmcgcGxhbiIgImUtbWFpbCIKICAgICAgICAgICAgcG0gLT4gcm95YWx0aWVzICJzcGVjaWZpZXMgcm95YWx0eSBwYXltZW50cyIgImUtbWFpbC9zcHJlYWRzaGVldCIKICAgICAgICB9CgoKICAgICAgICBlbWFpbCAtPiBhdXRob3IgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJlLW1haWwiCiAgICAgICAgZW1haWwgLT4gcmV2aWV3ZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICBlbWFpbCAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgIGN1c3RvbWVyIC0+IHdpcCAicmVhZHMgbmV3IGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICBhdXRob3JpbmcgLT4gZW1haWwgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJSRVNUIEFQSSIKICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgInN5c3RlbS1sYW5kc2NhcGUiICJDb3Jwb3JhdGUgdmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dCB0YgogICAgICAgIH0KCiAgICAgICAgc3lzdGVtQ29udGV4dCBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGR5bmFtaWMgImNtcyIgewogICAgICAgICAgICB0aXRsZSAiTmV3IENoYXB0ZXIgKGFwcHJvdmVkKSIKICAgICAgICAgICAgYXV0b0xheW91dCBscgogICAgICAgICAgICBhdXRob3IgLT4gYXV0aG9yaW5nICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICAgICAgZW1haWwgLT4gcmV2aWV3ZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICAgICAgcmV2aWV3ZXIgLT4gYXV0aG9yaW5nICJyZXZpZXdzIGFuZCBhcHByb3ZlcyBuZXcgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IHdpcCAibm90aWZpZWQgb2YgY29tcGxldGVkIGNoYXB0ZXIiICJBTVFQIgogICAgICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgICAgICAgICBlbWFpbCAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICBjdXN0b21lciAtPiB3aXAgInJlYWRzIG5ldyBjaGFwdGVycyIgIndlYiBicm93c2VyIgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgfQoKfQo="
   },
   "configuration" : { },
   "model" : {
@@ -14,175 +14,255 @@
       "name" : "Books R Us"
     },
     "people" : [ {
-      "id" : "2",
+      "id" : "7",
       "tags" : "Element,Person",
       "name" : "Author",
       "description" : "Book authors (hundreds)",
       "relationships" : [ {
-        "id" : "10",
-        "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "9",
-        "description" : "publishes chapters",
-        "technology" : "web browser"
-      }, {
-        "id" : "12",
-        "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "9",
-        "description" : "reject reviewer changes",
-        "technology" : "web browser"
-      }, {
-        "id" : "11",
-        "sourceId" : "2",
-        "destinationId" : "4",
+        "id" : "18",
+        "sourceId" : "7",
+        "destinationId" : "11",
         "description" : "publishes chapters",
         "technology" : "web browser",
-        "linkedRelationshipId" : "10"
+        "linkedRelationshipId" : "17"
+      }, {
+        "id" : "17",
+        "tags" : "Relationship",
+        "sourceId" : "7",
+        "destinationId" : "16",
+        "description" : "publishes chapters",
+        "technology" : "web browser"
+      }, {
+        "id" : "19",
+        "tags" : "Relationship",
+        "sourceId" : "7",
+        "destinationId" : "16",
+        "description" : "reject reviewer changes",
+        "technology" : "web browser"
       } ],
       "location" : "Internal"
     }, {
-      "id" : "3",
+      "id" : "8",
       "tags" : "Element,Person",
       "name" : "Buyer",
       "description" : "Book purchasers (millions)",
       "relationships" : [ {
-        "id" : "6",
+        "id" : "31",
         "tags" : "Relationship",
-        "sourceId" : "3",
-        "destinationId" : "5",
-        "description" : "purchases books from",
-        "technology" : "web browser"
-      }, {
-        "id" : "7",
-        "sourceId" : "3",
-        "destinationId" : "4",
-        "description" : "purchases books from",
-        "technology" : "web browser",
-        "linkedRelationshipId" : "6"
-      }, {
-        "id" : "20",
-        "tags" : "Relationship",
-        "sourceId" : "3",
-        "destinationId" : "8",
+        "sourceId" : "8",
+        "destinationId" : "15",
         "description" : "reads new chapters",
         "technology" : "web browser"
-      } ],
-      "location" : "Internal"
-    }, {
-      "id" : "1",
-      "tags" : "Element,Person",
-      "name" : "Reviewer",
-      "description" : "Publisher employess (dozens)",
-      "relationships" : [ {
+      }, {
         "id" : "13",
         "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "9",
-        "description" : "reviews chapters",
+        "sourceId" : "8",
+        "destinationId" : "12",
+        "description" : "purchases books from",
         "technology" : "web browser"
       }, {
         "id" : "14",
-        "sourceId" : "1",
-        "destinationId" : "4",
-        "description" : "reviews chapters",
+        "sourceId" : "8",
+        "destinationId" : "11",
+        "description" : "purchases books from",
         "technology" : "web browser",
         "linkedRelationshipId" : "13"
       } ],
       "location" : "Internal"
-    } ],
-    "softwareSystems" : [ {
-      "id" : "16",
-      "tags" : "Element,Software System,External vendor",
-      "name" : "E-Mail Service",
-      "description" : "Handles sending out e-mail",
+    }, {
+      "id" : "9",
+      "tags" : "Element,Person",
+      "name" : "Marketer",
+      "description" : "Publisher employees (dozens)",
       "relationships" : [ {
-        "id" : "17",
+        "id" : "24",
         "tags" : "Relationship",
-        "sourceId" : "16",
-        "destinationId" : "3",
-        "description" : "notified of new chapters",
-        "technology" : "e-mail"
-      }, {
-        "id" : "19",
-        "tags" : "Relationship",
-        "sourceId" : "16",
-        "destinationId" : "2",
-        "description" : "notified of reviewer changes",
-        "technology" : "e-mail"
-      }, {
-        "id" : "18",
-        "tags" : "Relationship",
-        "sourceId" : "16",
+        "sourceId" : "9",
         "destinationId" : "1",
-        "description" : "notified of new chapters",
+        "description" : "specifies marketing campaign",
         "technology" : "e-mail"
       } ],
-      "group" : "Spam Gun",
+      "location" : "Internal"
+    }, {
+      "id" : "10",
+      "tags" : "Element,Person",
+      "name" : "Project Manager",
+      "description" : "Publisher employees (dozens)",
+      "relationships" : [ {
+        "id" : "25",
+        "tags" : "Relationship",
+        "sourceId" : "10",
+        "destinationId" : "2",
+        "description" : "specifies distribution plan",
+        "technology" : "e-mail"
+      }, {
+        "id" : "26",
+        "tags" : "Relationship",
+        "sourceId" : "10",
+        "destinationId" : "4",
+        "description" : "specifies printing plan",
+        "technology" : "e-mail"
+      }, {
+        "id" : "27",
+        "tags" : "Relationship",
+        "sourceId" : "10",
+        "destinationId" : "3",
+        "description" : "specifies royalty payments",
+        "technology" : "e-mail/spreadsheet"
+      } ],
+      "location" : "Internal"
+    }, {
+      "id" : "6",
+      "tags" : "Element,Person",
+      "name" : "Reviewer",
+      "description" : "Publisher employees (dozens)",
+      "relationships" : [ {
+        "id" : "20",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "16",
+        "description" : "reviews chapters",
+        "technology" : "web browser"
+      }, {
+        "id" : "21",
+        "sourceId" : "6",
+        "destinationId" : "11",
+        "description" : "reviews chapters",
+        "technology" : "web browser",
+        "linkedRelationshipId" : "20"
+      } ],
+      "location" : "Internal"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "4",
+      "tags" : "Element,Software System,Printing R Us",
+      "name" : "Printing",
+      "description" : "Handles printing physical books",
+      "group" : "External Organizations",
       "location" : "External",
       "documentation" : { }
     }, {
-      "id" : "4",
+      "id" : "11",
       "tags" : "Element,Software System",
       "name" : "Content Management System",
       "relationships" : [ {
-        "id" : "22",
-        "sourceId" : "4",
-        "destinationId" : "16",
+        "id" : "33",
+        "sourceId" : "11",
+        "destinationId" : "5",
         "description" : "notified of new chapters",
         "technology" : "REST API",
-        "linkedRelationshipId" : "21"
+        "linkedRelationshipId" : "32"
       } ],
       "location" : "Internal",
       "containers" : [ {
-        "id" : "9",
+        "id" : "15",
         "tags" : "Element,Container",
-        "name" : "Authoring Services",
-        "description" : "Handles books in progress",
+        "name" : "WIP Services",
+        "description" : "Handles pushing chapters as they become available",
         "relationships" : [ {
-          "id" : "23",
+          "id" : "35",
           "tags" : "Relationship",
-          "sourceId" : "9",
-          "destinationId" : "16",
-          "description" : "notified of reviewer changes",
-          "technology" : "REST API"
-        }, {
-          "id" : "15",
-          "tags" : "Relationship",
-          "sourceId" : "9",
-          "destinationId" : "8",
-          "description" : "notified of completed chapter",
-          "technology" : "AMQP"
-        }, {
-          "id" : "21",
-          "tags" : "Relationship",
-          "sourceId" : "9",
-          "destinationId" : "16",
+          "sourceId" : "15",
+          "destinationId" : "5",
           "description" : "notified of new chapters",
           "technology" : "REST API"
         } ],
         "technology" : "Spring Boot"
       }, {
-        "id" : "5",
+        "id" : "23",
+        "tags" : "Element,Container",
+        "name" : "Database",
+        "description" : "Chapter storage",
+        "technology" : "Neo4J"
+      }, {
+        "id" : "12",
         "tags" : "Element,Container",
         "name" : "Purchasing Services",
         "description" : "Handles purchasing of books",
         "technology" : "Spring Boot"
       }, {
-        "id" : "8",
+        "id" : "16",
         "tags" : "Element,Container",
-        "name" : "WIP Services",
-        "description" : "Handles pushing chapters as they become available",
+        "name" : "Authoring Services",
+        "description" : "Handles books in progress",
         "relationships" : [ {
-          "id" : "24",
+          "id" : "34",
           "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "16",
+          "sourceId" : "16",
+          "destinationId" : "5",
+          "description" : "notified of reviewer changes",
+          "technology" : "REST API"
+        }, {
+          "id" : "32",
+          "tags" : "Relationship",
+          "sourceId" : "16",
+          "destinationId" : "5",
           "description" : "notified of new chapters",
           "technology" : "REST API"
+        }, {
+          "id" : "22",
+          "tags" : "Relationship",
+          "sourceId" : "16",
+          "destinationId" : "15",
+          "description" : "notified of completed chapter",
+          "technology" : "AMQP"
         } ],
         "technology" : "Spring Boot"
       } ],
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System,Distribution R Us",
+      "name" : "Distribution",
+      "description" : "Ships physical books",
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "1",
+      "tags" : "Element,Software System,Marketing R Us",
+      "name" : "Marketing",
+      "description" : "Gets the word out",
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,External vendor",
+      "name" : "E-Mail Service",
+      "description" : "Handles sending out e-mail",
+      "relationships" : [ {
+        "id" : "30",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "8",
+        "description" : "notified of new chapters",
+        "technology" : "e-mail"
+      }, {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "6",
+        "description" : "notified of new chapters",
+        "technology" : "e-mail"
+      }, {
+        "id" : "28",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "7",
+        "description" : "notified of reviewer changes",
+        "technology" : "e-mail"
+      } ],
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System,Royalties R Us",
+      "name" : "Royalties",
+      "description" : "Handles royalty payments",
+      "group" : "External Organizations",
+      "location" : "External",
       "documentation" : { }
     } ]
   },
@@ -199,14 +279,14 @@
       "description" : "Corporate view",
       "key" : "system-landscape",
       "order" : 1,
-      "paperSize" : "A4_Landscape",
+      "paperSize" : "A1_Landscape",
       "dimensions" : {
-        "width" : 2558,
-        "height" : 2470
+        "width" : 7550,
+        "height" : 1658
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
-        "rankDirection" : "LeftRight",
+        "rankDirection" : "TopBottom",
         "rankSeparation" : 300,
         "nodeSeparation" : 300,
         "edgeSeparation" : 0,
@@ -214,55 +294,129 @@
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
+        "id" : "11",
+        "x" : 1364,
+        "y" : 992
+      }, {
         "id" : "1",
-        "x" : 1068,
-        "y" : 378
+        "x" : 6780,
+        "y" : 992
       }, {
         "id" : "2",
-        "x" : 1068,
-        "y" : 1078
+        "x" : 5280,
+        "y" : 992
       }, {
         "id" : "3",
-        "x" : 1068,
-        "y" : 1778
+        "x" : 4530,
+        "y" : 992
       }, {
         "id" : "4",
-        "x" : 1768,
-        "y" : 778
+        "x" : 6030,
+        "y" : 992
       }, {
-        "id" : "16",
-        "x" : 318,
-        "y" : 778
+        "id" : "5",
+        "x" : 3780,
+        "y" : 992
+      }, {
+        "id" : "6",
+        "x" : 1039,
+        "y" : 292
+      }, {
+        "id" : "7",
+        "x" : 339,
+        "y" : 292
+      }, {
+        "id" : "8",
+        "x" : 1739,
+        "y" : 292
+      }, {
+        "id" : "9",
+        "x" : 3139,
+        "y" : 292
+      }, {
+        "id" : "10",
+        "x" : 2439,
+        "y" : 292
       } ],
       "relationships" : [ {
+        "id" : "29",
+        "vertices" : [ {
+          "x" : 3718,
+          "y" : 888
+        }, {
+          "x" : 1589,
+          "y" : 692
+        } ]
+      }, {
         "id" : "18"
       }, {
-        "id" : "17",
+        "id" : "28",
         "vertices" : [ {
-          "x" : 964,
-          "y" : 1628
+          "x" : 3718,
+          "y" : 888
+        }, {
+          "x" : 889,
+          "y" : 692
+        } ]
+      }, {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 2989,
+          "y" : 692
+        }, {
+          "x" : 4380,
+          "y" : 888
+        } ]
+      }, {
+        "id" : "26",
+        "vertices" : [ {
+          "x" : 2989,
+          "y" : 692
+        }, {
+          "x" : 5880,
+          "y" : 888
         } ]
       }, {
         "id" : "14"
       }, {
-        "id" : "11"
-      }, {
-        "id" : "22",
+        "id" : "25",
         "vertices" : [ {
-          "x" : 1468,
-          "y" : 228
+          "x" : 2989,
+          "y" : 692
         }, {
-          "x" : 964,
-          "y" : 228
+          "x" : 5130,
+          "y" : 888
         } ]
       }, {
-        "id" : "7"
+        "id" : "24",
+        "vertices" : [ {
+          "x" : 6630,
+          "y" : 888
+        } ]
       }, {
-        "id" : "19"
+        "id" : "33",
+        "vertices" : [ {
+          "x" : 2394,
+          "y" : 1142
+        }, {
+          "x" : 3200,
+          "y" : 1142
+        } ]
+      }, {
+        "id" : "21"
+      }, {
+        "id" : "30",
+        "vertices" : [ {
+          "x" : 3718,
+          "y" : 888
+        }, {
+          "x" : 2289,
+          "y" : 692
+        } ]
       } ]
     } ],
     "systemContextViews" : [ {
-      "softwareSystemId" : "4",
+      "softwareSystemId" : "11",
       "key" : "ContentManagementSystem-SystemContext",
       "order" : 2,
       "paperSize" : "A5_Landscape",
@@ -272,52 +426,52 @@
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
-        "id" : "1",
-        "x" : 40,
-        "y" : 730
-      }, {
-        "id" : "2",
-        "x" : 1590,
-        "y" : 55
-      }, {
-        "id" : "3",
-        "x" : 1765,
-        "y" : 1005
-      }, {
-        "id" : "4",
+        "id" : "11",
         "x" : 795,
         "y" : 810
       }, {
-        "id" : "16",
+        "id" : "5",
         "x" : 140,
         "y" : 120
+      }, {
+        "id" : "6",
+        "x" : 40,
+        "y" : 730
+      }, {
+        "id" : "7",
+        "x" : 1590,
+        "y" : 55
+      }, {
+        "id" : "8",
+        "x" : 1765,
+        "y" : 1005
       } ],
       "relationships" : [ {
-        "id" : "18"
-      }, {
-        "id" : "17"
-      }, {
-        "id" : "14"
-      }, {
-        "id" : "11",
+        "id" : "18",
         "vertices" : [ {
           "x" : 1490,
           "y" : 525
         } ]
       }, {
-        "id" : "7",
+        "id" : "29"
+      }, {
+        "id" : "28"
+      }, {
+        "id" : "14",
         "vertices" : [ {
           "x" : 1485,
           "y" : 1065
         } ]
       }, {
-        "id" : "22"
+        "id" : "33"
       }, {
-        "id" : "19"
+        "id" : "21"
+      }, {
+        "id" : "30"
       } ]
     } ],
     "containerViews" : [ {
-      "softwareSystemId" : "4",
+      "softwareSystemId" : "11",
       "key" : "ContentManagementSystem-Container",
       "order" : 3,
       "paperSize" : "A4_Portrait",
@@ -327,78 +481,82 @@
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
-        "id" : "1",
-        "x" : 1115,
-        "y" : 1085
-      }, {
-        "id" : "2",
-        "x" : 870,
-        "y" : 2120
-      }, {
-        "id" : "3",
-        "x" : 1037,
-        "y" : 361
-      }, {
-        "id" : "5",
+        "id" : "12",
         "x" : 287,
         "y" : 286
       }, {
-        "id" : "16",
-        "x" : 40,
-        "y" : 2060
+        "id" : "23",
+        "x" : 923,
+        "y" : 816
       }, {
-        "id" : "8",
+        "id" : "15",
         "x" : 545,
         "y" : 990
       }, {
-        "id" : "9",
+        "id" : "16",
         "x" : 287,
         "y" : 1486
+      }, {
+        "id" : "5",
+        "x" : 40,
+        "y" : 2060
+      }, {
+        "id" : "6",
+        "x" : 1115,
+        "y" : 1085
+      }, {
+        "id" : "7",
+        "x" : 870,
+        "y" : 2120
+      }, {
+        "id" : "8",
+        "x" : 1037,
+        "y" : 361
       } ],
       "relationships" : [ {
-        "id" : "21",
+        "id" : "32",
         "vertices" : [ {
           "x" : 221,
           "y" : 921
         } ]
       }, {
-        "id" : "10"
+        "id" : "20"
       }, {
-        "id" : "20",
+        "id" : "31",
         "vertices" : [ {
           "x" : 792,
           "y" : 673
         } ]
       }, {
-        "id" : "18"
+        "id" : "30"
+      }, {
+        "id" : "29"
       }, {
         "id" : "17"
       }, {
-        "id" : "15",
-        "vertices" : [ {
-          "x" : 520,
-          "y" : 1270
-        } ]
+        "id" : "28"
       }, {
         "id" : "13"
       }, {
-        "id" : "24"
+        "id" : "35"
       }, {
-        "id" : "6"
-      }, {
-        "id" : "12",
-        "vertices" : [ {
-          "x" : 967,
-          "y" : 1805
-        } ]
-      }, {
-        "id" : "23",
+        "id" : "34",
         "vertices" : [ {
           "x" : 515,
           "y" : 864
         } ]
       }, {
-        "id" : "19"
+        "id" : "22",
+        "vertices" : [ {
+          "x" : 520,
+          "y" : 1270
+        } ]
+      }, {
+        "id" : "19",
+        "vertices" : [ {
+          "x" : 967,
+          "y" : 1805
+        } ]
       } ]
     } ],
     "dynamicViews" : [ {
@@ -418,25 +576,25 @@
         "vertices" : false
       },
       "title" : "New Chapter (approved)",
-      "elementId" : "4",
+      "elementId" : "11",
       "externalBoundariesVisible" : true,
       "relationships" : [ {
-        "id" : "10",
+        "id" : "17",
         "description" : "publishes chapters",
         "order" : "1",
         "response" : false
       }, {
-        "id" : "21",
+        "id" : "32",
         "description" : "notified of new chapters",
         "order" : "2",
         "response" : false
       }, {
-        "id" : "18",
+        "id" : "29",
         "description" : "notified of new chapters",
         "order" : "3",
         "response" : false
       }, {
-        "id" : "13",
+        "id" : "20",
         "description" : "reviews and approves new chapters",
         "order" : "4",
         "response" : false,
@@ -445,12 +603,12 @@
           "y" : 1379
         } ]
       }, {
-        "id" : "15",
+        "id" : "22",
         "description" : "notified of completed chapter",
         "order" : "5",
         "response" : false
       }, {
-        "id" : "24",
+        "id" : "35",
         "description" : "notified of new chapters",
         "order" : "6",
         "response" : false,
@@ -462,40 +620,40 @@
           "y" : 879
         } ]
       }, {
-        "id" : "17",
+        "id" : "30",
         "description" : "notified of new chapters",
         "order" : "7",
         "response" : false
       }, {
-        "id" : "20",
+        "id" : "31",
         "description" : "reads new chapters",
         "order" : "8",
         "response" : false
       } ],
       "elements" : [ {
-        "id" : "1",
-        "x" : 2408,
-        "y" : 1233
-      }, {
-        "id" : "2",
-        "x" : 208,
-        "y" : 279
-      }, {
-        "id" : "3",
-        "x" : 2408,
-        "y" : 408
+        "id" : "15",
+        "x" : 1658,
+        "y" : 329
       }, {
         "id" : "16",
+        "x" : 908,
+        "y" : 329
+      }, {
+        "id" : "5",
         "x" : 1658,
         "y" : 929
       }, {
-        "id" : "8",
-        "x" : 1658,
-        "y" : 329
+        "id" : "6",
+        "x" : 2408,
+        "y" : 1233
       }, {
-        "id" : "9",
-        "x" : 908,
-        "y" : 329
+        "id" : "7",
+        "x" : 208,
+        "y" : 279
+      }, {
+        "id" : "8",
+        "x" : 2408,
+        "y" : 408
       } ]
     } ],
     "configuration" : {
@@ -503,7 +661,7 @@
       "styles" : { },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "ContentManagementSystem-Container"
+      "lastSavedView" : "system-landscape"
     }
   }
 }

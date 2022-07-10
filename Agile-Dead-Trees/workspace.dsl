@@ -3,11 +3,20 @@ workspace {
     !adrs decisions
 
     model {
+        group "External Organizations" {
+            marketing = softwareSystem "Marketing" "Gets the word out" "Marketing R Us"
+            distirbution = softwareSystem "Distribution" "Ships physical books" "Distribution R Us"
+            royalties = softwareSystem "Royalties" "Handles royalty payments" "Royalties R Us"
+            printing = softwareSystem "Printing" "Handles printing physical books" "Printing R Us"
+            email = softwareSystem "E-Mail Service" "Handles sending out e-mail" "External vendor"
+        }
+
         enterprise "Books R Us" {
-            reviewer = person "Reviewer" "Publisher employess (dozens)"
+            reviewer = person "Reviewer" "Publisher employees (dozens)"
             author = person "Author" "Book authors (hundreds)"
             customer = person "Buyer" "Book purchasers (millions)"
-            database = container "Database" "Chapter storage" "Neo4J"
+            marketer = person "Marketer" "Publisher employees (dozens)"
+            pm = person "Project Manager" "Publisher employees (dozens)"
             cms = softwareSystem "Content Management System" {
                 container "Purchasing Services" "Handles purchasing of books" "Spring Boot" {
                     customer -> this "purchases books from" "web browser"
@@ -19,21 +28,18 @@ workspace {
                     reviewer -> this "reviews chapters" "web browser"
                     this -> wip "notified of completed chapter" "AMQP"
                 }
+                database = container "Database" "Chapter storage" "Neo4J"
             }
+            marketer -> marketing "specifies marketing campaign" "e-mail"
+            pm -> distirbution "specifies distribution plan" "e-mail"
+            pm -> printing "specifies printing plan" "e-mail"
+            pm -> royalties "specifies royalty payments" "e-mail/spreadsheet"
         }
 
-        group "External Organizations" {
-            container "Marketing" "Gets the word out" "Marketing R Us"
-            container "Distribution" "Ships physical books" "Distribution R Us"
-            container "Royalties" "Handles royalty payments" "Royalties R Us"
-            container "Printing" "Handles printing physical books" "Printing R Us"
-            email = softwareSystem "E-Mail Service" "Handles sending out e-mail" "External vendor" {
-                this -> customer "notified of new chapters" "e-mail"
-                this -> reviewer "notified of new chapters" "e-mail"
-                this -> author "notified of reviewer changes" "e-mail"
-            }
-        }
 
+        email -> author "notified of reviewer changes" "e-mail"
+        email -> reviewer "notified of new chapters" "e-mail"
+        email -> customer "notified of new chapters" "e-mail"
         customer -> wip "reads new chapters" "web browser"
         authoring -> email "notified of new chapters" "REST API"
         authoring -> email "notified of reviewer changes" "REST API"
@@ -43,7 +49,7 @@ workspace {
     views {
         systemLandscape "system-landscape" "Corporate view" {
             include *
-            autoLayout lr
+            autoLayout tb
         }
 
         systemContext cms {
