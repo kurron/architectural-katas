@@ -1,4 +1,4 @@
-workspace {
+workspace "Agile Dead Trees" "Solution to a Neal Ford architectural kata" {
     !docs documentation
     !adrs decisions
 

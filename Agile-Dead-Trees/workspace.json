@@ -1,12 +1,10 @@
 {
   "id" : 1,
-  "name" : "Name",
-  "description" : "Description",
-  "revision" : 0,
-  "lastModifiedDate" : "2022-07-10T17:02:42Z",
-  "lastModifiedAgent" : "structurizr-web/2762/diagram",
+  "name" : "Agile Dead Trees",
+  "description" : "Solution to a Neal Ford architectural kata",
+  "lastModifiedDate" : "2022-07-10T17:22:01Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKICAgICFkb2NzIGRvY3VtZW50YXRpb24KICAgICFhZHJzIGRlY2lzaW9ucwoKICAgIG1vZGVsIHsKICAgICAgICBncm91cCAiRXh0ZXJuYWwgT3JnYW5pemF0aW9ucyIgewogICAgICAgICAgICBtYXJrZXRpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiTWFya2V0aW5nIiAiR2V0cyB0aGUgd29yZCBvdXQiICJNYXJrZXRpbmcgUiBVcyIKICAgICAgICAgICAgZGlzdGlyYnV0aW9uID0gc29mdHdhcmVTeXN0ZW0gIkRpc3RyaWJ1dGlvbiIgIlNoaXBzIHBoeXNpY2FsIGJvb2tzIiAiRGlzdHJpYnV0aW9uIFIgVXMiCiAgICAgICAgICAgIHJveWFsdGllcyA9IHNvZnR3YXJlU3lzdGVtICJSb3lhbHRpZXMiICJIYW5kbGVzIHJveWFsdHkgcGF5bWVudHMiICJSb3lhbHRpZXMgUiBVcyIKICAgICAgICAgICAgcHJpbnRpbmcgPSBzb2Z0d2FyZVN5c3RlbSAiUHJpbnRpbmciICJIYW5kbGVzIHByaW50aW5nIHBoeXNpY2FsIGJvb2tzIiAiUHJpbnRpbmcgUiBVcyIKICAgICAgICAgICAgZW1haWwgPSBzb2Z0d2FyZVN5c3RlbSAiRS1NYWlsIFNlcnZpY2UiICJIYW5kbGVzIHNlbmRpbmcgb3V0IGUtbWFpbCIgIkV4dGVybmFsIHZlbmRvciIKICAgICAgICB9CgogICAgICAgIGVudGVycHJpc2UgIkJvb2tzIFIgVXMiIHsKICAgICAgICAgICAgcmV2aWV3ZXIgPSBwZXJzb24gIlJldmlld2VyIiAiUHVibGlzaGVyIGVtcGxveWVlcyAoZG96ZW5zKSIKICAgICAgICAgICAgYXV0aG9yID0gcGVyc29uICJBdXRob3IiICJCb29rIGF1dGhvcnMgKGh1bmRyZWRzKSIKICAgICAgICAgICAgY3VzdG9tZXIgPSBwZXJzb24gIkJ1eWVyIiAiQm9vayBwdXJjaGFzZXJzIChtaWxsaW9ucykiCiAgICAgICAgICAgIG1hcmtldGVyID0gcGVyc29uICJNYXJrZXRlciIgIlB1Ymxpc2hlciBlbXBsb3llZXMgKGRvemVucykiCiAgICAgICAgICAgIHBtID0gcGVyc29uICJQcm9qZWN0IE1hbmFnZXIiICJQdWJsaXNoZXIgZW1wbG95ZWVzIChkb3plbnMpIgogICAgICAgICAgICBjbXMgPSBzb2Z0d2FyZVN5c3RlbSAiQ29udGVudCBNYW5hZ2VtZW50IFN5c3RlbSIgewogICAgICAgICAgICAgICAgY29udGFpbmVyICJQdXJjaGFzaW5nIFNlcnZpY2VzIiAiSGFuZGxlcyBwdXJjaGFzaW5nIG9mIGJvb2tzIiAiU3ByaW5nIEJvb3QiIHsKICAgICAgICAgICAgICAgICAgICBjdXN0b21lciAtPiB0aGlzICJwdXJjaGFzZXMgYm9va3MgZnJvbSIgIndlYiBicm93c2VyIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgd2lwID0gY29udGFpbmVyICJXSVAgU2VydmljZXMiICJIYW5kbGVzIHB1c2hpbmcgY2hhcHRlcnMgYXMgdGhleSBiZWNvbWUgYXZhaWxhYmxlIiAiU3ByaW5nIEJvb3QiCiAgICAgICAgICAgICAgICBhdXRob3JpbmcgPSBjb250YWluZXIgIkF1dGhvcmluZyBTZXJ2aWNlcyIgIkhhbmRsZXMgYm9va3MgaW4gcHJvZ3Jlc3MiICJTcHJpbmcgQm9vdCIgewogICAgICAgICAgICAgICAgICAgIGF1dGhvciAtPiB0aGlzICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICBhdXRob3IgLT4gdGhpcyAicmVqZWN0IHJldmlld2VyIGNoYW5nZXMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgICAgICByZXZpZXdlciAtPiB0aGlzICJyZXZpZXdzIGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiB3aXAgIm5vdGlmaWVkIG9mIGNvbXBsZXRlZCBjaGFwdGVyIiAiQU1RUCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGRhdGFiYXNlID0gY29udGFpbmVyICJEYXRhYmFzZSIgIkNoYXB0ZXIgc3RvcmFnZSIgIk5lbzRKIgogICAgICAgICAgICB9CiAgICAgICAgICAgIG1hcmtldGVyIC0+IG1hcmtldGluZyAic3BlY2lmaWVzIG1hcmtldGluZyBjYW1wYWlnbiIgImUtbWFpbCIKICAgICAgICAgICAgcG0gLT4gZGlzdGlyYnV0aW9uICJzcGVjaWZpZXMgZGlzdHJpYnV0aW9uIHBsYW4iICJlLW1haWwiCiAgICAgICAgICAgIHBtIC0+IHByaW50aW5nICJzcGVjaWZpZXMgcHJpbnRpbmcgcGxhbiIgImUtbWFpbCIKICAgICAgICAgICAgcG0gLT4gcm95YWx0aWVzICJzcGVjaWZpZXMgcm95YWx0eSBwYXltZW50cyIgImUtbWFpbC9zcHJlYWRzaGVldCIKICAgICAgICB9CgoKICAgICAgICBlbWFpbCAtPiBhdXRob3IgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJlLW1haWwiCiAgICAgICAgZW1haWwgLT4gcmV2aWV3ZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICBlbWFpbCAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgIGN1c3RvbWVyIC0+IHdpcCAicmVhZHMgbmV3IGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICBhdXRob3JpbmcgLT4gZW1haWwgIm5vdGlmaWVkIG9mIHJldmlld2VyIGNoYW5nZXMiICJSRVNUIEFQSSIKICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgInN5c3RlbS1sYW5kc2NhcGUiICJDb3Jwb3JhdGUgdmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dCB0YgogICAgICAgIH0KCiAgICAgICAgc3lzdGVtQ29udGV4dCBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBjbXMgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgI2F1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGR5bmFtaWMgImNtcyIgewogICAgICAgICAgICB0aXRsZSAiTmV3IENoYXB0ZXIgKGFwcHJvdmVkKSIKICAgICAgICAgICAgYXV0b0xheW91dCBscgogICAgICAgICAgICBhdXRob3IgLT4gYXV0aG9yaW5nICJwdWJsaXNoZXMgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICAgICAgZW1haWwgLT4gcmV2aWV3ZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICAgICAgcmV2aWV3ZXIgLT4gYXV0aG9yaW5nICJyZXZpZXdzIGFuZCBhcHByb3ZlcyBuZXcgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgYXV0aG9yaW5nIC0+IHdpcCAibm90aWZpZWQgb2YgY29tcGxldGVkIGNoYXB0ZXIiICJBTVFQIgogICAgICAgICAgICB3aXAgLT4gZW1haWwgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgIlJFU1QgQVBJIgogICAgICAgICAgICBlbWFpbCAtPiBjdXN0b21lciAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiZS1tYWlsIgogICAgICAgICAgICBjdXN0b21lciAtPiB3aXAgInJlYWRzIG5ldyBjaGFwdGVycyIgIndlYiBicm93c2VyIgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlICJBZ2lsZSBEZWFkIFRyZWVzIiAiU29sdXRpb24gdG8gYSBOZWFsIEZvcmQgYXJjaGl0ZWN0dXJhbCBrYXRhIiB7CiAgICAhZG9jcyBkb2N1bWVudGF0aW9uCiAgICAhYWRycyBkZWNpc2lvbnMKCiAgICBtb2RlbCB7CiAgICAgICAgZ3JvdXAgIkV4dGVybmFsIE9yZ2FuaXphdGlvbnMiIHsKICAgICAgICAgICAgbWFya2V0aW5nID0gc29mdHdhcmVTeXN0ZW0gIk1hcmtldGluZyIgIkdldHMgdGhlIHdvcmQgb3V0IiAiTWFya2V0aW5nIFIgVXMiCiAgICAgICAgICAgIGRpc3RpcmJ1dGlvbiA9IHNvZnR3YXJlU3lzdGVtICJEaXN0cmlidXRpb24iICJTaGlwcyBwaHlzaWNhbCBib29rcyIgIkRpc3RyaWJ1dGlvbiBSIFVzIgogICAgICAgICAgICByb3lhbHRpZXMgPSBzb2Z0d2FyZVN5c3RlbSAiUm95YWx0aWVzIiAiSGFuZGxlcyByb3lhbHR5IHBheW1lbnRzIiAiUm95YWx0aWVzIFIgVXMiCiAgICAgICAgICAgIHByaW50aW5nID0gc29mdHdhcmVTeXN0ZW0gIlByaW50aW5nIiAiSGFuZGxlcyBwcmludGluZyBwaHlzaWNhbCBib29rcyIgIlByaW50aW5nIFIgVXMiCiAgICAgICAgICAgIGVtYWlsID0gc29mdHdhcmVTeXN0ZW0gIkUtTWFpbCBTZXJ2aWNlIiAiSGFuZGxlcyBzZW5kaW5nIG91dCBlLW1haWwiICJFeHRlcm5hbCB2ZW5kb3IiCiAgICAgICAgfQoKICAgICAgICBlbnRlcnByaXNlICJCb29rcyBSIFVzIiB7CiAgICAgICAgICAgIHJldmlld2VyID0gcGVyc29uICJSZXZpZXdlciIgIlB1Ymxpc2hlciBlbXBsb3llZXMgKGRvemVucykiCiAgICAgICAgICAgIGF1dGhvciA9IHBlcnNvbiAiQXV0aG9yIiAiQm9vayBhdXRob3JzIChodW5kcmVkcykiCiAgICAgICAgICAgIGN1c3RvbWVyID0gcGVyc29uICJCdXllciIgIkJvb2sgcHVyY2hhc2VycyAobWlsbGlvbnMpIgogICAgICAgICAgICBtYXJrZXRlciA9IHBlcnNvbiAiTWFya2V0ZXIiICJQdWJsaXNoZXIgZW1wbG95ZWVzIChkb3plbnMpIgogICAgICAgICAgICBwbSA9IHBlcnNvbiAiUHJvamVjdCBNYW5hZ2VyIiAiUHVibGlzaGVyIGVtcGxveWVlcyAoZG96ZW5zKSIKICAgICAgICAgICAgY21zID0gc29mdHdhcmVTeXN0ZW0gIkNvbnRlbnQgTWFuYWdlbWVudCBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGNvbnRhaW5lciAiUHVyY2hhc2luZyBTZXJ2aWNlcyIgIkhhbmRsZXMgcHVyY2hhc2luZyBvZiBib29rcyIgIlNwcmluZyBCb290IiB7CiAgICAgICAgICAgICAgICAgICAgY3VzdG9tZXIgLT4gdGhpcyAicHVyY2hhc2VzIGJvb2tzIGZyb20iICJ3ZWIgYnJvd3NlciIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHdpcCA9IGNvbnRhaW5lciAiV0lQIFNlcnZpY2VzIiAiSGFuZGxlcyBwdXNoaW5nIGNoYXB0ZXJzIGFzIHRoZXkgYmVjb21lIGF2YWlsYWJsZSIgIlNwcmluZyBCb290IgogICAgICAgICAgICAgICAgYXV0aG9yaW5nID0gY29udGFpbmVyICJBdXRob3JpbmcgU2VydmljZXMiICJIYW5kbGVzIGJvb2tzIGluIHByb2dyZXNzIiAiU3ByaW5nIEJvb3QiIHsKICAgICAgICAgICAgICAgICAgICBhdXRob3IgLT4gdGhpcyAicHVibGlzaGVzIGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgICAgICAgICAgYXV0aG9yIC0+IHRoaXMgInJlamVjdCByZXZpZXdlciBjaGFuZ2VzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgICAgICAgICAgcmV2aWV3ZXIgLT4gdGhpcyAicmV2aWV3cyBjaGFwdGVycyIgIndlYiBicm93c2VyIgogICAgICAgICAgICAgICAgICAgIHRoaXMgLT4gd2lwICJub3RpZmllZCBvZiBjb21wbGV0ZWQgY2hhcHRlciIgIkFNUVAiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBkYXRhYmFzZSA9IGNvbnRhaW5lciAiRGF0YWJhc2UiICJDaGFwdGVyIHN0b3JhZ2UiICJOZW80SiIKICAgICAgICAgICAgfQogICAgICAgICAgICBtYXJrZXRlciAtPiBtYXJrZXRpbmcgInNwZWNpZmllcyBtYXJrZXRpbmcgY2FtcGFpZ24iICJlLW1haWwiCiAgICAgICAgICAgIHBtIC0+IGRpc3RpcmJ1dGlvbiAic3BlY2lmaWVzIGRpc3RyaWJ1dGlvbiBwbGFuIiAiZS1tYWlsIgogICAgICAgICAgICBwbSAtPiBwcmludGluZyAic3BlY2lmaWVzIHByaW50aW5nIHBsYW4iICJlLW1haWwiCiAgICAgICAgICAgIHBtIC0+IHJveWFsdGllcyAic3BlY2lmaWVzIHJveWFsdHkgcGF5bWVudHMiICJlLW1haWwvc3ByZWFkc2hlZXQiCiAgICAgICAgfQoKCiAgICAgICAgZW1haWwgLT4gYXV0aG9yICJub3RpZmllZCBvZiByZXZpZXdlciBjaGFuZ2VzIiAiZS1tYWlsIgogICAgICAgIGVtYWlsIC0+IHJldmlld2VyICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJlLW1haWwiCiAgICAgICAgZW1haWwgLT4gY3VzdG9tZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICBjdXN0b21lciAtPiB3aXAgInJlYWRzIG5ldyBjaGFwdGVycyIgIndlYiBicm93c2VyIgogICAgICAgIGF1dGhvcmluZyAtPiBlbWFpbCAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiUkVTVCBBUEkiCiAgICAgICAgYXV0aG9yaW5nIC0+IGVtYWlsICJub3RpZmllZCBvZiByZXZpZXdlciBjaGFuZ2VzIiAiUkVTVCBBUEkiCiAgICAgICAgd2lwIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtTGFuZHNjYXBlICJzeXN0ZW0tbGFuZHNjYXBlIiAiQ29ycG9yYXRlIHZpZXciIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQgdGIKICAgICAgICB9CgogICAgICAgIHN5c3RlbUNvbnRleHQgY21zIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICNhdXRvbGF5b3V0IGxyCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgY21zIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICNhdXRvbGF5b3V0IGxyCiAgICAgICAgfQoKICAgICAgICBkeW5hbWljICJjbXMiIHsKICAgICAgICAgICAgdGl0bGUgIk5ldyBDaGFwdGVyIChhcHByb3ZlZCkiCiAgICAgICAgICAgIGF1dG9MYXlvdXQgbHIKICAgICAgICAgICAgYXV0aG9yIC0+IGF1dGhvcmluZyAicHVibGlzaGVzIGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgIGF1dGhvcmluZyAtPiBlbWFpbCAibm90aWZpZWQgb2YgbmV3IGNoYXB0ZXJzIiAiUkVTVCBBUEkiCiAgICAgICAgICAgIGVtYWlsIC0+IHJldmlld2VyICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJlLW1haWwiCiAgICAgICAgICAgIHJldmlld2VyIC0+IGF1dGhvcmluZyAicmV2aWV3cyBhbmQgYXBwcm92ZXMgbmV3IGNoYXB0ZXJzIiAid2ViIGJyb3dzZXIiCiAgICAgICAgICAgIGF1dGhvcmluZyAtPiB3aXAgIm5vdGlmaWVkIG9mIGNvbXBsZXRlZCBjaGFwdGVyIiAiQU1RUCIKICAgICAgICAgICAgd2lwIC0+IGVtYWlsICJub3RpZmllZCBvZiBuZXcgY2hhcHRlcnMiICJSRVNUIEFQSSIKICAgICAgICAgICAgZW1haWwgLT4gY3VzdG9tZXIgIm5vdGlmaWVkIG9mIG5ldyBjaGFwdGVycyIgImUtbWFpbCIKICAgICAgICAgICAgY3VzdG9tZXIgLT4gd2lwICJyZWFkcyBuZXcgY2hhcHRlcnMiICJ3ZWIgYnJvd3NlciIKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -14,24 +12,45 @@
       "name" : "Books R Us"
     },
     "people" : [ {
+      "id" : "6",
+      "tags" : "Element,Person",
+      "name" : "Reviewer",
+      "description" : "Publisher employees (dozens)",
+      "relationships" : [ {
+        "id" : "20",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "16",
+        "description" : "reviews chapters",
+        "technology" : "web browser"
+      }, {
+        "id" : "21",
+        "sourceId" : "6",
+        "destinationId" : "11",
+        "description" : "reviews chapters",
+        "technology" : "web browser",
+        "linkedRelationshipId" : "20"
+      } ],
+      "location" : "Internal"
+    }, {
       "id" : "7",
       "tags" : "Element,Person",
       "name" : "Author",
       "description" : "Book authors (hundreds)",
       "relationships" : [ {
-        "id" : "18",
-        "sourceId" : "7",
-        "destinationId" : "11",
-        "description" : "publishes chapters",
-        "technology" : "web browser",
-        "linkedRelationshipId" : "17"
-      }, {
         "id" : "17",
         "tags" : "Relationship",
         "sourceId" : "7",
         "destinationId" : "16",
         "description" : "publishes chapters",
         "technology" : "web browser"
+      }, {
+        "id" : "18",
+        "sourceId" : "7",
+        "destinationId" : "11",
+        "description" : "publishes chapters",
+        "technology" : "web browser",
+        "linkedRelationshipId" : "17"
       }, {
         "id" : "19",
         "tags" : "Relationship",
@@ -47,13 +66,6 @@
       "name" : "Buyer",
       "description" : "Book purchasers (millions)",
       "relationships" : [ {
-        "id" : "31",
-        "tags" : "Relationship",
-        "sourceId" : "8",
-        "destinationId" : "15",
-        "description" : "reads new chapters",
-        "technology" : "web browser"
-      }, {
         "id" : "13",
         "tags" : "Relationship",
         "sourceId" : "8",
@@ -67,6 +79,13 @@
         "description" : "purchases books from",
         "technology" : "web browser",
         "linkedRelationshipId" : "13"
+      }, {
+        "id" : "31",
+        "tags" : "Relationship",
+        "sourceId" : "8",
+        "destinationId" : "15",
+        "description" : "reads new chapters",
+        "technology" : "web browser"
       } ],
       "location" : "Internal"
     }, {
@@ -111,33 +130,66 @@
         "technology" : "e-mail/spreadsheet"
       } ],
       "location" : "Internal"
-    }, {
-      "id" : "6",
-      "tags" : "Element,Person",
-      "name" : "Reviewer",
-      "description" : "Publisher employees (dozens)",
-      "relationships" : [ {
-        "id" : "20",
-        "tags" : "Relationship",
-        "sourceId" : "6",
-        "destinationId" : "16",
-        "description" : "reviews chapters",
-        "technology" : "web browser"
-      }, {
-        "id" : "21",
-        "sourceId" : "6",
-        "destinationId" : "11",
-        "description" : "reviews chapters",
-        "technology" : "web browser",
-        "linkedRelationshipId" : "20"
-      } ],
-      "location" : "Internal"
     } ],
     "softwareSystems" : [ {
+      "id" : "1",
+      "tags" : "Element,Software System,Marketing R Us",
+      "name" : "Marketing",
+      "description" : "Gets the word out",
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System,Distribution R Us",
+      "name" : "Distribution",
+      "description" : "Ships physical books",
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System,Royalties R Us",
+      "name" : "Royalties",
+      "description" : "Handles royalty payments",
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
       "id" : "4",
       "tags" : "Element,Software System,Printing R Us",
       "name" : "Printing",
       "description" : "Handles printing physical books",
+      "group" : "External Organizations",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,External vendor",
+      "name" : "E-Mail Service",
+      "description" : "Handles sending out e-mail",
+      "relationships" : [ {
+        "id" : "28",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "7",
+        "description" : "notified of reviewer changes",
+        "technology" : "e-mail"
+      }, {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "6",
+        "description" : "notified of new chapters",
+        "technology" : "e-mail"
+      }, {
+        "id" : "30",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "8",
+        "description" : "notified of new chapters",
+        "technology" : "e-mail"
+      } ],
       "group" : "External Organizations",
       "location" : "External",
       "documentation" : { }
@@ -186,12 +238,12 @@
         "name" : "Authoring Services",
         "description" : "Handles books in progress",
         "relationships" : [ {
-          "id" : "34",
+          "id" : "22",
           "tags" : "Relationship",
           "sourceId" : "16",
-          "destinationId" : "5",
-          "description" : "notified of reviewer changes",
-          "technology" : "REST API"
+          "destinationId" : "15",
+          "description" : "notified of completed chapter",
+          "technology" : "AMQP"
         }, {
           "id" : "32",
           "tags" : "Relationship",
@@ -200,69 +252,15 @@
           "description" : "notified of new chapters",
           "technology" : "REST API"
         }, {
-          "id" : "22",
+          "id" : "34",
           "tags" : "Relationship",
           "sourceId" : "16",
-          "destinationId" : "15",
-          "description" : "notified of completed chapter",
-          "technology" : "AMQP"
+          "destinationId" : "5",
+          "description" : "notified of reviewer changes",
+          "technology" : "REST API"
         } ],
         "technology" : "Spring Boot"
       } ],
-      "documentation" : { }
-    }, {
-      "id" : "2",
-      "tags" : "Element,Software System,Distribution R Us",
-      "name" : "Distribution",
-      "description" : "Ships physical books",
-      "group" : "External Organizations",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "1",
-      "tags" : "Element,Software System,Marketing R Us",
-      "name" : "Marketing",
-      "description" : "Gets the word out",
-      "group" : "External Organizations",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "5",
-      "tags" : "Element,Software System,External vendor",
-      "name" : "E-Mail Service",
-      "description" : "Handles sending out e-mail",
-      "relationships" : [ {
-        "id" : "30",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "8",
-        "description" : "notified of new chapters",
-        "technology" : "e-mail"
-      }, {
-        "id" : "29",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "6",
-        "description" : "notified of new chapters",
-        "technology" : "e-mail"
-      }, {
-        "id" : "28",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "7",
-        "description" : "notified of reviewer changes",
-        "technology" : "e-mail"
-      } ],
-      "group" : "External Organizations",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "3",
-      "tags" : "Element,Software System,Royalties R Us",
-      "name" : "Royalties",
-      "description" : "Handles royalty payments",
-      "group" : "External Organizations",
-      "location" : "External",
       "documentation" : { }
     } ]
   },
@@ -272,6 +270,14 @@
       "content" : "\n## Requirements\n\nA publisher wants to unify its authoring Content Management System \\(CMS\\) and customer store experience, trying to get books published to customers as quickly as possible.\n\n- Users: dozens of publisher employees, hundreds of authors, thousands/millions of customers\n- Requirements:\n  - authors publish chapters\n  - reviewers see the chapters, make review comments, and notify authors on review\n  - authors can reject proposed review changes\n  - supports both copy and technical editing\n  - customers can buy books \\(either e-form or dead trees form\\) online, including those available in 'beta'\n  - publisher can push authors chapters to those customers who bought the 'beta'\n- Additional Context:\n  - The business is driven to this decision because competitors have a similar offering.\n  - Competition for authors is tight.\n  - This is part of a long-term strategy to modernize the publishing aspects of the business.\n  - Information needed to publish a book \\(distribution, royalties, marketing\\) comes from several disparate systems, ranging from emailed Excel spreadsheets to mainframe integration with the printing facility.",
       "format" : "Markdown",
       "order" : 1
+    } ],
+    "decisions" : [ {
+      "title" : "Record Architecural Decisions",
+      "content" : "# 1. Record Architecural Decisions\nDate: 2022-05-16\n\n## Status\nAccepted\n\n## Context\nWe need to record architural decsions made on this project.\n\n## Decision\nWe will use Architecural Decision Records, as described by Michael Nygard in [Documenting Aarchitecure Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)  \n\n## Consequences\nSee Michael's article, linked above.\n",
+      "format" : "Markdown",
+      "id" : "0",
+      "date" : "2022-05-16T00:00:00Z",
+      "status" : "Accepted"
     } ]
   },
   "views" : {
@@ -279,11 +285,6 @@
       "description" : "Corporate view",
       "key" : "system-landscape",
       "order" : 1,
-      "paperSize" : "A1_Landscape",
-      "dimensions" : {
-        "width" : 7550,
-        "height" : 1658
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -295,124 +296,71 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "11",
-        "x" : 1364,
-        "y" : 992
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "1",
-        "x" : 6780,
-        "y" : 992
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "2",
-        "x" : 5280,
-        "y" : 992
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "3",
-        "x" : 4530,
-        "y" : 992
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "4",
-        "x" : 6030,
-        "y" : 992
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "5",
-        "x" : 3780,
-        "y" : 992
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 1039,
-        "y" : 292
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "7",
-        "x" : 339,
-        "y" : 292
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "8",
-        "x" : 1739,
-        "y" : 292
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "9",
-        "x" : 3139,
-        "y" : 292
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "10",
-        "x" : 2439,
-        "y" : 292
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
-        "id" : "29",
-        "vertices" : [ {
-          "x" : 3718,
-          "y" : 888
-        }, {
-          "x" : 1589,
-          "y" : 692
-        } ]
+        "id" : "29"
       }, {
         "id" : "18"
       }, {
-        "id" : "28",
-        "vertices" : [ {
-          "x" : 3718,
-          "y" : 888
-        }, {
-          "x" : 889,
-          "y" : 692
-        } ]
+        "id" : "28"
       }, {
-        "id" : "27",
-        "vertices" : [ {
-          "x" : 2989,
-          "y" : 692
-        }, {
-          "x" : 4380,
-          "y" : 888
-        } ]
+        "id" : "27"
       }, {
-        "id" : "26",
-        "vertices" : [ {
-          "x" : 2989,
-          "y" : 692
-        }, {
-          "x" : 5880,
-          "y" : 888
-        } ]
+        "id" : "26"
       }, {
         "id" : "14"
       }, {
-        "id" : "25",
-        "vertices" : [ {
-          "x" : 2989,
-          "y" : 692
-        }, {
-          "x" : 5130,
-          "y" : 888
-        } ]
+        "id" : "25"
       }, {
-        "id" : "24",
-        "vertices" : [ {
-          "x" : 6630,
-          "y" : 888
-        } ]
+        "id" : "24"
       }, {
-        "id" : "33",
-        "vertices" : [ {
-          "x" : 2394,
-          "y" : 1142
-        }, {
-          "x" : 3200,
-          "y" : 1142
-        } ]
+        "id" : "33"
       }, {
         "id" : "21"
       }, {
-        "id" : "30",
-        "vertices" : [ {
-          "x" : 3718,
-          "y" : 888
-        }, {
-          "x" : 2289,
-          "y" : 692
-        } ]
+        "id" : "30"
       } ]
     } ],
     "systemContextViews" : [ {
@@ -481,25 +429,25 @@
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
-        "id" : "12",
-        "x" : 287,
-        "y" : 286
-      }, {
         "id" : "23",
         "x" : 923,
         "y" : 816
+      }, {
+        "id" : "12",
+        "x" : 287,
+        "y" : 286
       }, {
         "id" : "15",
         "x" : 545,
         "y" : 990
       }, {
-        "id" : "16",
-        "x" : 287,
-        "y" : 1486
-      }, {
         "id" : "5",
         "x" : 40,
         "y" : 2060
+      }, {
+        "id" : "16",
+        "x" : 287,
+        "y" : 1486
       }, {
         "id" : "6",
         "x" : 1115,
@@ -520,13 +468,13 @@
           "y" : 921
         } ]
       }, {
-        "id" : "20"
-      }, {
         "id" : "31",
         "vertices" : [ {
           "x" : 792,
           "y" : 673
         } ]
+      }, {
+        "id" : "20"
       }, {
         "id" : "30"
       }, {
@@ -536,9 +484,9 @@
       }, {
         "id" : "28"
       }, {
-        "id" : "13"
-      }, {
         "id" : "35"
+      }, {
+        "id" : "13"
       }, {
         "id" : "34",
         "vertices" : [ {
@@ -562,11 +510,6 @@
     "dynamicViews" : [ {
       "key" : "ContentManagementSystem-Dynamic-001",
       "order" : 4,
-      "paperSize" : "A4_Landscape",
-      "dimensions" : {
-        "width" : 3016,
-        "height" : 1858
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "LeftRight",
@@ -584,7 +527,7 @@
         "order" : "1",
         "response" : false
       }, {
-        "id" : "32",
+        "id" : "34",
         "description" : "notified of new chapters",
         "order" : "2",
         "response" : false
@@ -597,11 +540,7 @@
         "id" : "20",
         "description" : "reviews and approves new chapters",
         "order" : "4",
-        "response" : false,
-        "vertices" : [ {
-          "x" : 1658,
-          "y" : 1379
-        } ]
+        "response" : false
       }, {
         "id" : "22",
         "description" : "notified of completed chapter",
@@ -611,14 +550,7 @@
         "id" : "35",
         "description" : "notified of new chapters",
         "order" : "6",
-        "response" : false,
-        "vertices" : [ {
-          "x" : 1883,
-          "y" : 679
-        }, {
-          "x" : 1883,
-          "y" : 879
-        } ]
+        "response" : false
       }, {
         "id" : "30",
         "description" : "notified of new chapters",
@@ -632,28 +564,28 @@
       } ],
       "elements" : [ {
         "id" : "15",
-        "x" : 1658,
-        "y" : 329
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "16",
-        "x" : 908,
-        "y" : 329
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "5",
-        "x" : 1658,
-        "y" : 929
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 2408,
-        "y" : 1233
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "7",
-        "x" : 208,
-        "y" : 279
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "8",
-        "x" : 2408,
-        "y" : 408
+        "x" : 0,
+        "y" : 0
       } ]
     } ],
     "configuration" : {
